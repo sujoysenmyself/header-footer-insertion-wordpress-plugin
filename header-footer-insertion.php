@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Header and Footer Insertion
+Plugin Name: Header Footer Insertion
 Plugin URI: https://wordpress.org/plugins/header-and-footer-insertion/
 Description: A plugin to add custom styles and scripts to the header or footer.
 Version: 1.0.0
