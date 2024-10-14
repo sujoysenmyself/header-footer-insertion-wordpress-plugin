@@ -1,2 +1,2 @@
-# header footer insertion wordpress plugin
+# Header Footer Insertion Wordpress Plugin
 I developed the 'Header and Footer Insertion' WordPress plugin, allowing users to easily insert custom code snippets (HTML, CSS, JavaScript) into the header or footer sections of their website without modifying theme files. This plugin helps enhance functionality for analytics, tracking scripts, or design customizations with a simple, user-friendly interface.
